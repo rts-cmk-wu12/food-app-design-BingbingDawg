@@ -1,0 +1,17 @@
+@use 'layout';
+@use 'components';
+
+.icon_images{
+    width: 24px;
+    height: 24px;
+}
+.settings_button{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #EF2A39;
+    border: none;
+}
+.profilebackground{
+    background-color: #EF2A39;
+}
